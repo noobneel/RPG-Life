@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416352281146",
+    "project_id": "rpg-life-final",
+    "storage_bucket": "rpg-life-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416352281146:android:e37487d52a19cb801d4b03",
+        "android_client_info": {
+          "package_name": "com.neel.rpglifefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEoIAW2IGA4o9NJh9IWgf3cablUgFYQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
