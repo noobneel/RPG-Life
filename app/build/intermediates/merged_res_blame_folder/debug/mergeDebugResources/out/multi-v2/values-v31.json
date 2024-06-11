@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.neel.rpglifefinal.app-mergeDebugResources-61:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\newpe\\.gradle\\caches\\transforms-3\\799bb912fd357d9918ce224f376ac93b\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\newpe\\Desktop\\RPG Life Final\\RPGLifeFinal\\app\\src\\main\\res\\values-v31\\splash.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "702",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1091"
+                    }
+                }
+            ]
+        }
+    ]
+}

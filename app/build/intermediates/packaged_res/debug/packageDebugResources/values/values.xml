@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="rpglife1_background">#FFB703</color>
+    <color name="rpglife_background">#FFB703</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RPG Life Final</string>
+    <string name="gcm_defaultSenderId" translatable="false">416352281146</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsEoIAW2IGA4o9NJh9IWgf3cablUgFYQg</string>
+    <string name="google_app_id" translatable="false">1:416352281146:android:e37487d52a19cb801d4b03</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsEoIAW2IGA4o9NJh9IWgf3cablUgFYQg</string>
+    <string name="google_storage_bucket" translatable="false">rpg-life-final.appspot.com</string>
+    <string name="project_id" translatable="false">rpg-life-final</string>
+    <string name="web_client_id">416352281146-u15nhvncts1g8eugb7hl4mkbcqdgpbt9.apps.googleusercontent.com</string>
+    <style name="Theme.RPGLifeFinal" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.SplashScreen.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFB703</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/rpglifefinal_round</item>
+        <item name="postSplashScreenTheme">@style/Theme.RPGLifeFinal</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+    </style>
+</resources>

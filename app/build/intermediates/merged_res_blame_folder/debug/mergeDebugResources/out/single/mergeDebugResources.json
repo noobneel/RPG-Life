@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglife_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglife_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_rightrarrow.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/rightrarrow.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_profile.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/profile.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglife.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglife.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_logo_googleg_48dp.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/logo_googleg_48dp.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglife_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglife_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglife_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglife_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglife1.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglife1.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_vectorfemale.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/vectorfemale.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglife.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglife.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_home.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/home.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglife1_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglife1_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_profile_active.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/profile_active.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglifefinal_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglifefinal_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_rpglife.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/rpglife.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_vectormale.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/vectormale.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglife.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglife.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglifefinal_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglifefinal_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/xml_backup_rules.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglife_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglife_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglife1.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglife1.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/xml_data_extraction_rules.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglife_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglife_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglife1_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglife1_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglife1.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglife1.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglife1_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglife1_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_circle.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglife_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglife_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/font_lobster_regular.ttf.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/font/lobster_regular.ttf"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglife1_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglife1_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_rpglifefinal_round.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/rpglifefinal_round.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_cldr_active.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/cldr_active.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglife1_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglife1_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglife1.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglife1.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_larrow.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/larrow.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_apple.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/apple.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_calendar.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/calendar.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglife_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglife_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xhdpi_rpglifefinal_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xhdpi/rpglifefinal_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglife_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglife_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_radar_active.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/radar_active.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_rpglife_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/rpglife_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_rpglife_round.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/rpglife_round.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglife_foreground.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglife_foreground.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_shape.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_mdi_addadd.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/mdi_addadd.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_home_active.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/home_active.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglifefinal_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglifefinal_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-mdpi_rpglife.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-mdpi/rpglife.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglifefinal_round.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglifefinal_round.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/drawable_radar.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/drawable/radar.xml"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-xxhdpi_rpglife.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-xxhdpi/rpglife.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-hdpi_rpglife1.webp.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-hdpi/rpglife1.webp"
+    },
+    {
+        "merged": "com.neel.rpglifefinal.app-debug-63:/mipmap-anydpi-v26_rpglife1.xml.flat",
+        "source": "com.neel.rpglifefinal.app-main-65:/mipmap-anydpi-v26/rpglife1.xml"
+    }
+]

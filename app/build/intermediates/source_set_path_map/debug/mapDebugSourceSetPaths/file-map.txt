@@ -1,0 +1,65 @@
+com.neel.rpglifefinal.app-appcompat-1.6.1-0 C:\Users\newpe\.gradle\caches\transforms-3\069e00c077c0c39f656acebe1195d1c1\transformed\appcompat-1.6.1\res
+com.neel.rpglifefinal.app-ui-text-release-1 C:\Users\newpe\.gradle\caches\transforms-3\08ea84345dd8df177e2a368c9848adb9\transformed\ui-text-release\res
+com.neel.rpglifefinal.app-lifecycle-viewmodel-savedstate-2.7.0-2 C:\Users\newpe\.gradle\caches\transforms-3\1535015bf509ed528b6e595c91cc6014\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.neel.rpglifefinal.app-lifecycle-runtime-compose-2.7.0-3 C:\Users\newpe\.gradle\caches\transforms-3\1733be61dfa627d21b008f67bc8bf4b6\transformed\lifecycle-runtime-compose-2.7.0\res
+com.neel.rpglifefinal.app-runtime-saveable-release-4 C:\Users\newpe\.gradle\caches\transforms-3\19844849b90409f732e4b20e9cffd86c\transformed\runtime-saveable-release\res
+com.neel.rpglifefinal.app-navigation-runtime-ktx-2.7.7-5 C:\Users\newpe\.gradle\caches\transforms-3\25399f229c995e1879dd1aebe1667442\transformed\navigation-runtime-ktx-2.7.7\res
+com.neel.rpglifefinal.app-activity-1.8.2-6 C:\Users\newpe\.gradle\caches\transforms-3\288e3dda077b6534675f0b861f456075\transformed\activity-1.8.2\res
+com.neel.rpglifefinal.app-material-release-7 C:\Users\newpe\.gradle\caches\transforms-3\28fa273eef4d133b33a6bc44c0521059\transformed\material-release\res
+com.neel.rpglifefinal.app-material-ripple-release-8 C:\Users\newpe\.gradle\caches\transforms-3\31f5d66b1e9bab7d455db93f0d2ce4cb\transformed\material-ripple-release\res
+com.neel.rpglifefinal.app-lifecycle-runtime-ktx-2.7.0-9 C:\Users\newpe\.gradle\caches\transforms-3\325af279cdc61d6bbb63a748927cda2d\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.neel.rpglifefinal.app-play-services-basement-18.2.0-10 C:\Users\newpe\.gradle\caches\transforms-3\35ab60644e2734a9712527b3f940ee46\transformed\play-services-basement-18.2.0\res
+com.neel.rpglifefinal.app-core-runtime-2.2.0-11 C:\Users\newpe\.gradle\caches\transforms-3\3b77cb76dc491eaf1f99b1c992a6db22\transformed\core-runtime-2.2.0\res
+com.neel.rpglifefinal.app-emoji2-1.3.0-12 C:\Users\newpe\.gradle\caches\transforms-3\3dca7f5ae8562c0a19fa59feacec3498\transformed\emoji2-1.3.0\res
+com.neel.rpglifefinal.app-ui-tooling-data-release-13 C:\Users\newpe\.gradle\caches\transforms-3\40652fed17cf085001a3d194c136c4cc\transformed\ui-tooling-data-release\res
+com.neel.rpglifefinal.app-ui-util-release-14 C:\Users\newpe\.gradle\caches\transforms-3\4320945ba4f8183716629ea75c9a0fc1\transformed\ui-util-release\res
+com.neel.rpglifefinal.app-ui-geometry-release-15 C:\Users\newpe\.gradle\caches\transforms-3\4ad9dae8c683a2e83daea3e292172b17\transformed\ui-geometry-release\res
+com.neel.rpglifefinal.app-lifecycle-viewmodel-ktx-2.7.0-16 C:\Users\newpe\.gradle\caches\transforms-3\524a44627996c49359f6611b0298c94b\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.neel.rpglifefinal.app-animation-core-release-17 C:\Users\newpe\.gradle\caches\transforms-3\546acc46778ea19fbe62fe4cd0c17be3\transformed\animation-core-release\res
+com.neel.rpglifefinal.app-customview-poolingcontainer-1.0.0-18 C:\Users\newpe\.gradle\caches\transforms-3\5c262d9ab2da5b2d617440f0ed489e6a\transformed\customview-poolingcontainer-1.0.0\res
+com.neel.rpglifefinal.app-activity-compose-1.8.2-19 C:\Users\newpe\.gradle\caches\transforms-3\603e4bcd46f7a6124c4c8885c86ae11e\transformed\activity-compose-1.8.2\res
+com.neel.rpglifefinal.app-lifecycle-process-2.7.0-20 C:\Users\newpe\.gradle\caches\transforms-3\6f5753a08da6e3b3088e89a7f1148485\transformed\lifecycle-process-2.7.0\res
+com.neel.rpglifefinal.app-ui-graphics-release-21 C:\Users\newpe\.gradle\caches\transforms-3\6f991ee31c4b9e4e05d121f33efd0db2\transformed\ui-graphics-release\res
+com.neel.rpglifefinal.app-core-splashscreen-1.0.1-22 C:\Users\newpe\.gradle\caches\transforms-3\799bb912fd357d9918ce224f376ac93b\transformed\core-splashscreen-1.0.1\res
+com.neel.rpglifefinal.app-animation-release-23 C:\Users\newpe\.gradle\caches\transforms-3\7b5616c254cbf12c609e9343ce3e89e0\transformed\animation-release\res
+com.neel.rpglifefinal.app-core-1.12.0-24 C:\Users\newpe\.gradle\caches\transforms-3\7ba925538a12eb42e6947df6d0851c87\transformed\core-1.12.0\res
+com.neel.rpglifefinal.app-navigation-runtime-2.7.7-25 C:\Users\newpe\.gradle\caches\transforms-3\7c4072365cd875a63ccd3bd4f60df808\transformed\navigation-runtime-2.7.7\res
+com.neel.rpglifefinal.app-navigation-common-ktx-2.7.7-26 C:\Users\newpe\.gradle\caches\transforms-3\853aeaa9bc3cb9c9e5daa35008d4d33a\transformed\navigation-common-ktx-2.7.7\res
+com.neel.rpglifefinal.app-ui-release-27 C:\Users\newpe\.gradle\caches\transforms-3\86d83644dc1d7a334b82aef33c8c4349\transformed\ui-release\res
+com.neel.rpglifefinal.app-annotation-experimental-1.4.0-28 C:\Users\newpe\.gradle\caches\transforms-3\898e2b3ac4c52c70502e39e21a4ddade\transformed\annotation-experimental-1.4.0\res
+com.neel.rpglifefinal.app-foundation-layout-release-29 C:\Users\newpe\.gradle\caches\transforms-3\8a8ca37d5ba38ba1d07ea6e86d147710\transformed\foundation-layout-release\res
+com.neel.rpglifefinal.app-foundation-release-30 C:\Users\newpe\.gradle\caches\transforms-3\8e619f414a6d110d270a8b7b28a7f8bf\transformed\foundation-release\res
+com.neel.rpglifefinal.app-material3-release-31 C:\Users\newpe\.gradle\caches\transforms-3\8f2971330c1a18fcd02c0eb214c45303\transformed\material3-release\res
+com.neel.rpglifefinal.app-lifecycle-viewmodel-compose-2.7.0-32 C:\Users\newpe\.gradle\caches\transforms-3\91bf7389886a6b000d590ff334c77627\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.neel.rpglifefinal.app-runtime-release-33 C:\Users\newpe\.gradle\caches\transforms-3\9688a3f38f6f5dae318c45d01a7a28ce\transformed\runtime-release\res
+com.neel.rpglifefinal.app-navigation-compose-2.7.7-34 C:\Users\newpe\.gradle\caches\transforms-3\9f4a8c888c8a5bc8b2d9ffbc10e0a402\transformed\navigation-compose-2.7.7\res
+com.neel.rpglifefinal.app-lifecycle-runtime-2.7.0-35 C:\Users\newpe\.gradle\caches\transforms-3\a1afed286a29954e7369faf072a8fab3\transformed\lifecycle-runtime-2.7.0\res
+com.neel.rpglifefinal.app-core-ktx-1.12.0-36 C:\Users\newpe\.gradle\caches\transforms-3\add622150e4de866cce3fc9d9e592a60\transformed\core-ktx-1.12.0\res
+com.neel.rpglifefinal.app-ui-tooling-preview-release-37 C:\Users\newpe\.gradle\caches\transforms-3\b2411a13d993a41d5e110a822384fb3c\transformed\ui-tooling-preview-release\res
+com.neel.rpglifefinal.app-browser-1.4.0-38 C:\Users\newpe\.gradle\caches\transforms-3\b62e5639f8851f9e246e565083327f31\transformed\browser-1.4.0\res
+com.neel.rpglifefinal.app-play-services-auth-21.0.0-39 C:\Users\newpe\.gradle\caches\transforms-3\b764c3d75f41279b5bace2c61075ec66\transformed\play-services-auth-21.0.0\res
+com.neel.rpglifefinal.app-savedstate-ktx-1.2.1-40 C:\Users\newpe\.gradle\caches\transforms-3\bac12c62fd008fdcd82eee306ffaa57f\transformed\savedstate-ktx-1.2.1\res
+com.neel.rpglifefinal.app-ui-test-manifest-1.6.5-41 C:\Users\newpe\.gradle\caches\transforms-3\bc0e07487231013c401e080337a108d1\transformed\ui-test-manifest-1.6.5\res
+com.neel.rpglifefinal.app-emoji2-views-helper-1.3.0-42 C:\Users\newpe\.gradle\caches\transforms-3\c05ede7710c4bc394282ed9e6274f7de\transformed\emoji2-views-helper-1.3.0\res
+com.neel.rpglifefinal.app-play-services-base-18.0.1-43 C:\Users\newpe\.gradle\caches\transforms-3\c19489190fbccdf49e9cdd459a200600\transformed\play-services-base-18.0.1\res
+com.neel.rpglifefinal.app-lifecycle-viewmodel-2.7.0-44 C:\Users\newpe\.gradle\caches\transforms-3\c4c41c06a81af5c035d97ff99f03d8e0\transformed\lifecycle-viewmodel-2.7.0\res
+com.neel.rpglifefinal.app-profileinstaller-1.3.1-45 C:\Users\newpe\.gradle\caches\transforms-3\c8ca21f869b87a69dd43acaf4ab3f267\transformed\profileinstaller-1.3.1\res
+com.neel.rpglifefinal.app-startup-runtime-1.1.1-46 C:\Users\newpe\.gradle\caches\transforms-3\cc464136844bbaf37f302a0fb9336fad\transformed\startup-runtime-1.1.1\res
+com.neel.rpglifefinal.app-navigation-common-2.7.7-47 C:\Users\newpe\.gradle\caches\transforms-3\cfdc3c660fb924b955c96ce5164701e3\transformed\navigation-common-2.7.7\res
+com.neel.rpglifefinal.app-ui-unit-release-48 C:\Users\newpe\.gradle\caches\transforms-3\d4f09f138a4f4efead42473067372c93\transformed\ui-unit-release\res
+com.neel.rpglifefinal.app-ui-tooling-release-49 C:\Users\newpe\.gradle\caches\transforms-3\d89bdc5ebd7312df49307e8ef865d230\transformed\ui-tooling-release\res
+com.neel.rpglifefinal.app-appcompat-resources-1.6.1-50 C:\Users\newpe\.gradle\caches\transforms-3\d9a0a167cb8dca292ad1ec83ef2ad3ba\transformed\appcompat-resources-1.6.1\res
+com.neel.rpglifefinal.app-firebase-common-20.4.2-51 C:\Users\newpe\.gradle\caches\transforms-3\dbd079b342377f2821fb0ca60a5cbce6\transformed\firebase-common-20.4.2\res
+com.neel.rpglifefinal.app-fragment-1.5.7-52 C:\Users\newpe\.gradle\caches\transforms-3\e1dce076449dd80147004492ab7755ba\transformed\fragment-1.5.7\res
+com.neel.rpglifefinal.app-lifecycle-livedata-core-2.7.0-53 C:\Users\newpe\.gradle\caches\transforms-3\f3102247872f02e8b0b4f16a60872774\transformed\lifecycle-livedata-core-2.7.0\res
+com.neel.rpglifefinal.app-activity-ktx-1.8.2-54 C:\Users\newpe\.gradle\caches\transforms-3\f626b55ec0f7fc42a02a482f0ca823b9\transformed\activity-ktx-1.8.2\res
+com.neel.rpglifefinal.app-material-icons-core-release-55 C:\Users\newpe\.gradle\caches\transforms-3\f6e7ab105f7b7ea4e0eaa078883d1b99\transformed\material-icons-core-release\res
+com.neel.rpglifefinal.app-savedstate-1.2.1-56 C:\Users\newpe\.gradle\caches\transforms-3\f78878e55edd54fede149f129162eeac\transformed\savedstate-1.2.1\res
+com.neel.rpglifefinal.app-coil-base-2.6.0-57 C:\Users\newpe\.gradle\caches\transforms-3\fb6d0ea0771f99afcf21798da423e52e\transformed\coil-base-2.6.0\res
+com.neel.rpglifefinal.app-res-58 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\build\generated\res\processDebugGoogleServices
+com.neel.rpglifefinal.app-resValues-59 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\build\generated\res\resValues\debug
+com.neel.rpglifefinal.app-packageDebugResources-60 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.neel.rpglifefinal.app-packageDebugResources-61 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.neel.rpglifefinal.app-debug-62 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.neel.rpglifefinal.app-debug-63 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\src\debug\res
+com.neel.rpglifefinal.app-main-64 C:\Users\newpe\Desktop\RPG Life Final\RPGLifeFinal\app\src\main\res
